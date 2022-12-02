@@ -1,0 +1,1 @@
+Secure login with sha256 and data base connection are not secure and are only used on localhost for fun purposes.
